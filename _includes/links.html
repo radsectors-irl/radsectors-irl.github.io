@@ -1,0 +1,18 @@
+
+{% for linkcat in site.data.links %}
+  <aside id="linkcat-{{ linkcat.id }}" class="widget widget_links">
+    <h2 class="widget-title">{{ linkcat.title }}</h2>
+    <ul class="xoxo blogroll">
+      {% for link in linkcat.links %}
+      {% unless link.hide %}
+      <li>
+        <a href="{{ link.url }}" rel="{{ link.rel }}" target="_blank">
+          <img src="https://www.google.com/s2/favicons?domain={{ link.favicon }}" alt="{{ link.title }}" />
+          {{ link.title }}
+        </a>
+      </li>
+      {% endunless %}
+      {% endfor %}
+    </ul>
+  </aside>
+{% endfor %}

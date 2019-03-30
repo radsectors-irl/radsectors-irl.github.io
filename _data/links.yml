@@ -1,0 +1,70 @@
+- id: 2
+  title: Social Media Links
+  links:
+  - title: Facebook
+    url: //facebook.com/marcaaronhester
+    rel: me
+    favicon: www.facebook.com
+  - title: LinkedIn
+    url: //www.linkedin.com/in/marcaaronhester/
+    rel: me
+    favicon: linkedin.com
+  - title: YouTube
+    url: //youtube.com/marcaaronhester
+    rel: me
+    favicon: youtube.com
+- id: 4
+  title: Pro Links
+  links:
+  - title: GitHub
+    url: //github.com/maercoftheshire
+    rel: me
+    favicon: github.com
+  - title: npm
+    url: //npmjs.com/~radsectors
+    favicon: npmjs.com
+    hide: true
+  - title: Packagist
+    url: //packagist.org/users/radsectors
+    favicon: packagist.org
+- id: 6
+  title: Referral Links
+  links:
+  - title: Arcadia Power
+    url: //www.arcadiapower.com/marc9452
+    favicon: //www.arcadiapower.com/img/favicon/favicon-16x16.png
+  - title: Aspiration
+    url: //my.aspiration.com/app/token/referral/LN0AY94U1VTATHTS
+    favicon: aspiration.com
+  - title: Backblaze
+    url: //secure.backblaze.com/r/027um0
+    favicon: backblaze.com
+  - title: FilterEasy
+    url: //fbuy.me/dOSz2
+    favicon: filtereasy.com
+  - title: Hulu
+    url: //mbsy.co/lZjtC
+    favicon: hulu.com
+  - title: Humble Bundle
+    url: //www.humblebundle.com/monthly?refc=72FRHq
+    favicon: humblebundle.com
+  - title: Leesa
+    url: //refer.leesa.com/ffqrb
+    favicon: leesa.com
+  - title: Mint Mobile
+    url: //www.name.com/referral/146c13
+    favicon: name.com
+  - title: Wealthfront
+    url: //wlth.fr/2NIKcU3
+    favicon: wealthfront.com
+- id: 3
+  title: Other Links
+  links:
+  - title: Wish List
+    url: //amzn.com/w/LHISW8MUZAV8
+    rel: me
+    favicon: amazon.com
+  - title: Dropbox Public Folder
+    url: //www.dropbox.com/sh/mgmom80pujavv0e/AACAD2JAsOIvKxIc_vXLmKFja
+    rel: me
+    favicon: www.dropbox.com
