@@ -2,69 +2,89 @@
   title: Social Media Links
   links:
   - title: Facebook
-    url: //facebook.com/marcaaronhester
+    url: https://facebook.com/marcaaronhester
     rel: me
     favicon: www.facebook.com
-  - title: LinkedIn
-    url: //www.linkedin.com/in/marcaaronhester/
+  - title: Instagram
+    url: https://instagram.com/maercoftheshire
     rel: me
-    favicon: linkedin.com
+    favicon: instagram.com
   - title: YouTube
-    url: //youtube.com/marcaaronhester
+    url: https://youtube.com/marcaaronhester
     rel: me
     favicon: youtube.com
 - id: 4
   title: Pro Links
   links:
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/marcaaronhester/
+    rel: me
+    favicon: linkedin.com
   - title: GitHub
-    url: //github.com/maercoftheshire
+    url: https://github.com/maercoftheshire
     rel: me
     favicon: github.com
+  - title: radsectors
+    url: https://radsectors.com
+    favicon: radsectors.com
+    hide: true
   - title: npm
-    url: //npmjs.com/~radsectors
+    url: https://npmjs.com/~radsectors
     favicon: npmjs.com
     hide: true
   - title: Packagist
-    url: //packagist.org/users/radsectors
+    url: https://packagist.org/users/radsectors
     favicon: packagist.org
 - id: 6
   title: Referral Links
   links:
   - title: Arcadia Power
-    url: //www.arcadiapower.com/marc9452
-    favicon: //www.arcadiapower.com/img/favicon/favicon-16x16.png
+    url: https://www.arcadiapower.com/marc9452
+    favicon: arcadiapower.com
   - title: Aspiration
-    url: //my.aspiration.com/app/token/referral/LN0AY94U1VTATHTS
+    url: https://my.aspiration.com/app/token/referral/LN0AY94U1VTATHTS
     favicon: aspiration.com
   - title: Backblaze
-    url: //secure.backblaze.com/r/027um0
+    url: https://secure.backblaze.com/r/027um0
     favicon: backblaze.com
   - title: FilterEasy
-    url: //fbuy.me/dOSz2
+    url: https://fbuy.me/dOSz2
     favicon: filtereasy.com
+    hide: true
   - title: Hulu
-    url: //mbsy.co/lZjtC
+    url: https://mbsy.co/lZjtC
     favicon: hulu.com
+    hide: true
   - title: Humble Bundle
-    url: //www.humblebundle.com/monthly?refc=72FRHq
+    url: https://www.humblebundle.com/monthly?refc=72FRHq
     favicon: humblebundle.com
+  - title: Instacart
+    url: https://inst.cr/t/u2pbP6Jds
+    favicon: instacart.com
   - title: Leesa
-    url: //refer.leesa.com/ffqrb
+    url: https://refer.leesa.com/ffqrb
     favicon: leesa.com
   - title: Mint Mobile
-    url: //www.name.com/referral/146c13
+    url: https://fbuy.me/l8Rjo
+    favicon: mintmobile.com
+  - title: Name.com
+    url: https://www.name.com/referral/146c13
     favicon: name.com
+  - title: Nature Box
+    url: https://fbuy.me/fRDNH
+    favicon: naturebox.com
+    hide: true
   - title: Wealthfront
-    url: //wlth.fr/2NIKcU3
+    url: https://wlth.fr/2NIKcU3
     favicon: wealthfront.com
 - id: 3
   title: Other Links
   links:
   - title: Wish List
-    url: //amzn.com/w/LHISW8MUZAV8
+    url: https://amzn.com/w/LHISW8MUZAV8
     rel: me
     favicon: amazon.com
   - title: Dropbox Public Folder
-    url: //www.dropbox.com/sh/mgmom80pujavv0e/AACAD2JAsOIvKxIc_vXLmKFja
+    url: https://www.dropbox.com/sh/mgmom80pujavv0e/AACAD2JAsOIvKxIc_vXLmKFja
     rel: me
     favicon: www.dropbox.com
