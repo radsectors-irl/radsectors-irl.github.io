@@ -5,8 +5,14 @@ description: >-
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 url: "https://marc.hester.be"
-twitter_username: maercoftheshire
-github_username:  maercoftheshire
+author: Marc A Hester
+lang: en_US
+twitter:
+  username: maercoftheshire
+  card: summary
 
 # Build settings
 markdown: kramdown
+
+plugins:
+  - jekyll-seo-tag
