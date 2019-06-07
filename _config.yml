@@ -7,6 +7,10 @@ lang: en_US
 twitter:
   username: maercoftheshire
   card: summary
+facebook:
+  app_id: 135501047
+  type: website
+
 
 # Build settings
 markdown: kramdown
