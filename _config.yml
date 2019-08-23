@@ -1,15 +1,9 @@
 title: Marc A Hester
 email: marc@hester.be
-description: My personal website.
+description: personal site.
 url: "https://marc.hester.be"
-author: Marc A Hester
+author: Marc Hester
 lang: en_US
-twitter:
-  username: maercoftheshire
-  card: summary
-facebook:
-  app_id: 135501047
-  type: website
 
 
 # Build settings

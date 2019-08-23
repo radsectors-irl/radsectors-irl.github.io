@@ -1,27 +1,17 @@
-- id: 2
-  title: Social Media Links
-  links:
-  - title: Facebook
-    url: https://facebook.com/marcaaronhester
-    rel: me
-    favicon: www.facebook.com
-  - title: Instagram
-    url: https://instagram.com/maercoftheshire
-    rel: me
-    favicon: instagram.com
-  - title: YouTube
-    url: https://youtube.com/marcaaronhester
-    rel: me
-    favicon: youtube.com
 - id: 4
-  title: Pro Links
+  title: Professional
   links:
   - title: LinkedIn
     url: https://www.linkedin.com/in/marcaaronhester/
     rel: me
     favicon: linkedin.com
+  - title: StackExchange
+    url: https://stackexchange.com/users/2257348/radsectors
+    rel: me
+    favicon: stackexchange.com
+    hide: true
   - title: GitHub
-    url: https://github.com/maercoftheshire
+    url: https://github.com/radsectors
     rel: me
     favicon: github.com
   - title: radsectors
@@ -35,21 +25,83 @@
   - title: Packagist
     url: https://packagist.org/users/radsectors
     favicon: packagist.org
+- id: 2
+  title: Social Media
+  links:
+  - title: Facebook
+    url: https://facebook.com/marcaaronhester
+    rel: me
+    favicon: www.facebook.com
+  - title: Twitter
+    url: https://twitter.com/radsectors
+    rel: me
+    favicon: twitter.com
+  - title: Reddit
+    url: https://www.reddit.com/user/radsectors
+    rel: me
+    favicon: reddit.com
+  - title: Spotify
+    url: https://open.spotify.com/user/radsectors
+    rel: me
+    favicon: spotify.com
+  - title: last.fm
+    url: https://www.last.fm/user/radsectors
+    rel: me
+    favicon: www.last.fm
+  - title: YouTube
+    url: https://youtube.com/marcaaronhester
+    rel: me
+    favicon: youtube.com
+  - title: Duolingo
+    url: https://www.duolingo.com/radsectors
+    rel: me
+    favicon: forum.duolingo.com
+  - title: Melon
+    url: https://www.melon.com/mymusic/main/mymusicmain_list.htm?memberKey=44673771
+    favicon: melon.com
+    hide: true
+  - title: devRant
+    url: https://devrant.com/users/radsectors
+    rel: me
+    favicon: devrant.com
+    hide: true
+- id: 5
+  title: Gaming Handles
+  # hide: true
+  links:
+  - title: Discord
+    code: radsectors#6669
+    favicon: discordapp.com
+  - title: Steam
+    url: https://steamcommunity.com/id/radsectors
+    rel: me
+    favicon: steampowered.com
+  - title: Twitch
+    url: https://www.twitch.tv/radsectors
+    rel: me
+    favicon: twitch.tv
+  - title: Battle.net
+    code: radsectors#1169
+    favicon: battle.net
+  - title: Switch
+    code: 0598-7099-1105
+    favicon: nintendo.com
+  - title: 3DS
+    code: 1160-9834-0392
+    favicon: nintendo.com
 - id: 6
-  title: Referral Links
+  title: Referrals
   links:
   - title: Arcadia Power
     url: https://www.arcadiapower.com/marc9452
     favicon: arcadiapower.com
-  - title: Aspiration
-    url: https://my.aspiration.com/app/token/referral/LN0AY94U1VTATHTS
-    favicon: aspiration.com
   - title: Backblaze
     url: https://secure.backblaze.com/r/027um0
-    favicon: backblaze.com
+    favicon: secure.backblaze.com
   - title: Cash App
     url: https://cash.me/app/MSVTJDS
     favicon: cash.app
+    hide: true
   - title: FilterEasy
     url: https://fbuy.me/dOSz2
     favicon: filtereasy.com
@@ -67,15 +119,16 @@
   - title: Leesa
     url: https://refer.leesa.com/ffqrb
     favicon: leesa.com
+    hide: true
   - title: Mint Mobile
     url: https://fbuy.me/l8Rjo
     favicon: mintmobile.com
   - title: Name.com
     url: https://www.name.com/referral/146c13
     favicon: name.com
-  - title: Nature Box
-    url: https://fbuy.me/fRDNH
-    favicon: naturebox.com
+  - title: Personal Capital
+    url: https://share.personalcapital.com/x/1P8UXu
+    favicon: personalcapital.com
     hide: true
   - title: Privacy.com
     url: https://privacy.com/join/7QLMC
