@@ -11,7 +11,7 @@ I originally built this page because I rejected the idea of maintaining several 
 I’m reasessing what I want out of a relationship. I still don’t have a clear picture, but here are a few of the scenarios I think about in no particular order:
 
 - Non-romantic life companion.
-- dsafsd
+- 
 
 ## Let the info dump begin
 
@@ -22,9 +22,10 @@ I’m reasessing what I want out of a relationship. I still don’t have a clear
 - **Sexual orientation** Pansexual
 - **Meyers-Briggs** 🇮 🇳 🇫 🇵
 - **Zodiac** ♑Capricorn
+- **New Zodiac** ♐Sagittarius
 - **East-Asian Zodiac** 🐀Rat
-- **Hogwarts House** ⛨Ravenclaw
-- **Twilight Team** I’d say Bella if I thought she was capable of being her own person, but outside of that, Team Jacob.
+- **Hogwarts House** Ravenclaw
+- **Twilight Team** Team Bella
 - **BTS bias** V
 - **Religion** Optimistic Nihilist, Atheist mostly
 
@@ -36,7 +37,7 @@ I’m reasessing what I want out of a relationship. I still don’t have a clear
 - Feminist
 - #blacklivesmatter
 - Recovering preacher’s kid ⛪
-- I Swipe right for 🐕s
+- I swipe right for 🐕s
 
 ### 👪 Childrens
 
@@ -66,7 +67,7 @@ I am the part-time parent of two (9 and 7 years old).
 ### 🤔 I spend a lot of time thinking about…
 
 - Mental health
-- How do adults meet people and make friends?
+- How do adults meet new people and make friends?
 - What I can do to enjoy life more and get more out of it?
 - What language should I study next?
 - What happened to Elisa Lam?
@@ -132,17 +133,19 @@ I’m mostly into Sci-fi and Supernatural Horror, but I’ll watch nearly anythi
 
 #### 🍴 Food
 
-- Keto/LCHF
+- Slow Carb/4-Hour Body diet
 - Burrito bowls
 - Kimchi
+
+### Things wrong w me
+
+#### 🧠 Mental
+
+- Generalized anxiety disorder
+- Excoriation disorder
 
 #### 🦠 Allergies
 
 - Dust/pollen
 - Cat dander
 - Cow’s milk/dairy
-
-#### Things wrong w me
-
-- Generalized anxiety disorder
-- Excoriation disorder
