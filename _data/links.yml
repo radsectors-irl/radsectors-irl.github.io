@@ -116,6 +116,7 @@
   - title: Instacart
     url: https://inst.cr/t/u2pbP6Jds
     favicon: instacart.com
+    hide: true
   - title: Leesa
     url: https://refer.leesa.com/ffqrb
     favicon: leesa.com

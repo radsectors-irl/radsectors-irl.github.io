@@ -8,10 +8,8 @@ image: /img/home.jpg
 
 I’m a software engineer based in Aurora, Illinois.
 
-I enjoy coding, burrito bowls, and spiked seltzer.
+I love outstanding music, language, video games, and art.
 
-I love K-pop, music, language, video games, and art.
+I hate ignorance, racism, sexism, homophobia, toxic masculinity, deadlines, and Australian accents.
 
-I hate ignorance, xenophobia & racism, sexism, homophobia, toxic masculinity, and deadlines.
-
-I’m fascinated by things I don’t know or understand.
+I’m most fascinated by what I don’t know or understand.
