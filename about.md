@@ -7,11 +7,8 @@ image: /img/about.jpg
 
 ### 🏁 First of all
 
-I originally built this page because I rejected the idea of maintaining several dating site profiles. This way I just have to put a link to this page.
-I’m reasessing what I want out of a relationship. I still don’t have a clear picture, but here are a few of the scenarios I think about in no particular order:
-
-- Non-romantic life companion.
-- 
+I originally built this page because I rejected the idea of maintaining several
+dating site profiles. This way I just have to put a link to this page.
 
 ## Let the info dump begin
 
@@ -19,15 +16,16 @@ I’m reasessing what I want out of a relationship. I still don’t have a clear
 
 - **Sex** Male
 - **Gender** Non-binary, confused
-- **Sexual orientation** Pansexual
+- **Sexual orientation** 🍳Pansexual
 - **Meyers-Briggs** 🇮 🇳 🇫 🇵
 - **Zodiac** ♑Capricorn
 - **New Zodiac** ♐Sagittarius
 - **East-Asian Zodiac** 🐀Rat
 - **Hogwarts House** Ravenclaw
-- **Twilight Team** Team Bella
+- **Twilight Team**
 - **BTS bias** V
-- **Religion** Optimistic Nihilist, Atheist mostly
+- **Religion** Optimistic Nihilist
+- **Politics** ‟Be excellent to each other.”
 
 #### Other words that describe me
 
@@ -79,6 +77,7 @@ I am the part-time parent of two (9 and 7 years old).
 I can enjoy just about anything if the mood is right… But here are a few of my obscure faves:
 
 - [Taeyeon](https://youtu.be/im1UUY8dQIk)
+- [Chungha](https://youtu.be/Y1myMHoWYxs)
 - [Yasunori Mitsuda](https://en.wikipedia.org/wiki/Yasunori_Mitsuda)
 - [BABYMETAL](http://www.babymetal.com)
 - [she](http://www.shemusic.org)
@@ -104,7 +103,6 @@ I’m mostly into Sci-fi and Supernatural Horror, but I’ll watch nearly anythi
 - _Cowboy Bebop_
 - _Twin Peaks_
 - _Fullmetal Alchemist: Brotherhood_
-- __
 
 #### 🕮 Books
 
@@ -113,11 +111,13 @@ I’m mostly into Sci-fi and Supernatural Horror, but I’ll watch nearly anythi
 - _Teenage Mutant Ninja Turtles_ (2011 IDW comic series)
 - _Locke & Key_
 
-#### 🎙 Podcasts
+####  YouTube Channels
 
-- Cracked
-- The Tim Ferriss Show
-- Stuff You Should Know
+- [Stop Skeletons From Fighting](https://www.youtube.com/user/lophatjello)
+- [Twin Perfect](https://www.youtube.com/user/TwinPerfectChannel)
+- [World of Dave](https://www.youtube.com/user/davetehdave)
+- [Langfocus](https://www.youtube.com/channel/UCNhX3WQEkraW3VHPyup8jkQ)
+- [M13](https://www.youtube.com/user/13mordeth)
 
 ##### 🎮 Games
 
@@ -133,7 +133,7 @@ I’m mostly into Sci-fi and Supernatural Horror, but I’ll watch nearly anythi
 
 #### 🍴 Food
 
-- Slow Carb/4-Hour Body diet
+- Slow Carb/4-Hour Body
 - Burrito bowls
 - Kimchi
 
@@ -149,3 +149,9 @@ I’m mostly into Sci-fi and Supernatural Horror, but I’ll watch nearly anythi
 - Dust/pollen
 - Cat dander
 - Cow’s milk/dairy
+
+### Hello
+
+#### Memes
+
+huh
