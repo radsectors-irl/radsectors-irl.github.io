@@ -36,6 +36,10 @@
     url: https://twitter.com/radsectors
     rel: me
     favicon: twitter.com
+  - title: Instagram
+    url: https://instagram.com/radsectors
+    rel: me
+    favicon: instagram.com
   - title: Reddit
     url: https://www.reddit.com/user/radsectors
     rel: me
@@ -140,10 +144,6 @@
 - id: 3
   title: Other Links
   links:
-  - title: Wish List
-    url: https://amzn.com/w/LHISW8MUZAV8
-    rel: me
-    favicon: amazon.com
   - title: Dropbox Public Folder
     url: https://www.dropbox.com/sh/mgmom80pujavv0e/AACAD2JAsOIvKxIc_vXLmKFja
     rel: me
