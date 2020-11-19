@@ -2,3 +2,4 @@ _site
 .htaccess
 .jekyll-metadata
 .sass-cache
+vendor

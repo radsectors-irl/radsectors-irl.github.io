@@ -4,6 +4,7 @@ description: The personal website of Marc Aaron Hester.
 url: "https://marc.hester.be"
 author: Marc Hester
 lang: en_US
+exclude: [vendor]
 
 
 # Build settings

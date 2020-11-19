@@ -1,8 +1,8 @@
 - id: 4
-  title: Professional
+  title: Pro/Creative
   links:
   - title: LinkedIn
-    url: https://www.linkedin.com/in/marcaaronhester/
+    url: https://www.linkedin.com/in/radsectors-irl/
     rel: me
     favicon: linkedin.com
   - title: StackExchange
@@ -25,11 +25,15 @@
   - title: Packagist
     url: https://packagist.org/users/radsectors
     favicon: packagist.org
+  - title: DeviantArt
+    url: https://deviantart.com/radsectors
+    rel: me
+    favicon: deviantart.com
 - id: 2
   title: Social Media
   links:
   - title: Facebook
-    url: https://facebook.com/marcaaronhester
+    url: https://facebook.com/radsectors.irl
     rel: me
     favicon: www.facebook.com
   - title: Twitter
@@ -44,6 +48,10 @@
     url: https://www.reddit.com/user/radsectors
     rel: me
     favicon: reddit.com
+  - title: TikTok
+    url: https://www.tiktok.com/@radsectors
+    rel: me
+    favicon: tiktok.com
   - title: Spotify
     url: https://open.spotify.com/user/radsectors
     rel: me
@@ -52,6 +60,10 @@
     url: https://www.last.fm/user/radsectors
     rel: me
     favicon: www.last.fm
+  - title: Bandcamp
+    url: https://bandcamp.com/radsectors
+    rel: me
+    favicon: bandcamp.com
   - title: YouTube
     url: https://youtube.com/marcaaronhester
     rel: me
@@ -71,10 +83,9 @@
     hide: true
 - id: 5
   title: Gaming Handles
-  # hide: true
   links:
   - title: Discord
-    code: radsectors#6669
+    code: radsectors#8192
     favicon: discordapp.com
   - title: Steam
     url: https://steamcommunity.com/id/radsectors
@@ -93,22 +104,31 @@
   - title: 3DS
     code: 1160-9834-0392
     favicon: nintendo.com
+- id: 7
+  title: Money
+  links:
+  - title: PayPal
+    url: https://www.paypal.me/radsectors
+    favicon: paypal.com
+  - title: Venmo
+    url: https://venmo.com/radsectors
+    favicon: venmo.com
+  - title: Cash
+    url: https://cash.app/$radsectors
+    favicon: cash.app
 - id: 6
   title: Referrals
   links:
   - title: Arcadia Power
     url: https://www.arcadiapower.com/marc9452
     favicon: arcadiapower.com
+    hide: true
   - title: Backblaze
     url: https://secure.backblaze.com/r/027um0
     favicon: secure.backblaze.com
   - title: Cash App
     url: https://cash.me/app/MSVTJDS
     favicon: cash.app
-    hide: true
-  - title: FilterEasy
-    url: https://fbuy.me/dOSz2
-    favicon: filtereasy.com
     hide: true
   - title: Hulu
     url: https://mbsy.co/lZjtC
